@@ -162,7 +162,7 @@
 		"@babel/plugin-transform-named-capturing-groups-regex": "^7.17.12",
 		"@babel/runtime": "^7.12.5",
 		"@bugsnag/source-maps": "^2.2.0",
-		"@rocket.chat/eslint-config": "^0.4.0",
+		"@rocket.chat/eslint-config": "^0.6.1",
 		"@storybook/addon-storyshots": "6.3",
 		"@storybook/react": "6.3",
 		"@storybook/react-native": "^6.0.1-beta.7",
